@@ -76,7 +76,10 @@ hr
   font-size: 5rem;
   display: flex;
 }
-
+.header:hover
+{
+    text-shadow: aqua 5px 0 8px;
+}
 .fit
 {
   display: flex;
