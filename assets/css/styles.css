@@ -77,7 +77,6 @@ hr
   display: flex;
 }
 
-
 .fit
 {
   display: flex;
@@ -96,8 +95,12 @@ hr
  {
   height: 50vh;
   width: 100%;
+  
 }
-
+.left-image:hover
+{
+    box-shadow: aqua;
+}
 
 .right 
 {
