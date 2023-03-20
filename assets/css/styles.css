@@ -115,7 +115,10 @@ hr
   height: 50vh;
   width: 100%;
 }
-
+.right-image:hover
+{
+    box-shadow: 0 0 5px 5px aqua;
+}
 .keypoints
 {
 
